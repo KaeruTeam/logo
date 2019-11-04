@@ -14,6 +14,8 @@ Logo assets for Kaeru Team, provided for use when referencing us and our work.
 
 * Please **don't** modify these logos or use them to brand third-party projects without express permission from Kaeru Team. The use of these logos in third-party merchandise is also not permitted.
 
+* Furthermore, when using the names of Kaeru Team or its services in news reporting or fan creations, please ensure you do so in a manner that does not imply that we endorse the work. For example, "Acme for Kaeru Gallery" would be fine but "Kaeru Gallery Acme" or "Kaeru Acme" would *not*, as that would suggest to a casual observer that we are involved.
+
 ### Brand Colors
 
 * Background: `#0C141D`
